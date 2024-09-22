@@ -58,7 +58,7 @@ Lite：
 
 项目是完全免费的
 
-- [Afdian](https://afdian.net/a/SyRadiant)
+- [Afdian](https://afdian.com/a/SyRadiant)
 
 ## 其他
 - 项目未注册和拥有任何商标。
