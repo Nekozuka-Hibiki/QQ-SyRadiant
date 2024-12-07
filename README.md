@@ -26,7 +26,6 @@
 使用列表：
 
 - [QAuxiliary](https://github.com/cinit/QAuxiliary)
-- [TSBattery](https://github.com/fankes/TSBattery)
 
 | 版本 | Full | Plus | Lite |
 |------|------|------|------|
