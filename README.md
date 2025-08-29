@@ -26,6 +26,7 @@
 使用列表：
 
 - [QAuxiliary](https://github.com/cinit/QAuxiliary)
+- FunBox（未有开源地址，暂不指向，可在TG找到官方频道）
 
 | 版本 | Full | Plus | Lite |
 |------|------|------|------|
@@ -39,7 +40,7 @@ Full：
 Plus：
 
 - 删除UE4等so库。
-- 删除Assets与R使用频次非常低的资源和引用；具体为：地图、直播、商城、小世界、QQ秀、小窝、元梦等。
+- 删除Assets与R使用频次非常低的资源和引用；具体为：~~地图~~、直播、商城、小世界、QQ秀、小窝、元梦等。
 - 修改配置声明，屏蔽敏感Service、Activity、Broadcast Receiver、Content Provider；具体为：定位和联系人权限、日志与遥测、TBS内核、Game推广与VIP广告等。
 - 综上，优化了内存占用与电量续航，提速冷启动，轻量防更新。
 
