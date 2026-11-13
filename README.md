@@ -1,7 +1,7 @@
 <div align="center">
     <h1> QQ-SyRadiant </h1>
 
-[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Channel&color=0088cc)](https://t.me/+fRaOECIYFeg2NGE1)
+[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Channel&color=0088cc)](https://t.me/SyRadiant_Nya)
 
 </div>
 
